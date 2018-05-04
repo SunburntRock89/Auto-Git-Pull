@@ -1,0 +1,29 @@
+{
+  "name": "auto-git-pull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunburntRock89/Auto-Git-Pull.git"
+  },
+  "keywords": [
+    "automatic",
+    "git",
+    "git",
+    "pull",
+    "pull"
+  ],
+  "author": "SunburntRock89",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/SunburntRock89/Auto-Git-Pull/issues"
+  },
+  "homepage": "https://github.com/SunburntRock89/Auto-Git-Pull#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
